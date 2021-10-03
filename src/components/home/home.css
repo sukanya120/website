@@ -1,0 +1,64 @@
+.home {
+    background: url('../../res/img/bg_mountain.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-content: center;
+    vertical-align: middle;
+    justify-content: center;
+
+
+}
+
+.Typewriter {
+
+    color: white;
+    font-size: 2.5vw;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    align-self: center;
+}
+
+.about {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.centertextabout {
+    color: black;
+    font-family: 'Montserrat';
+    align-self: center;
+
+}
+
+#dp_img {
+    
+}
+
+#dp, #atext {
+    display: flex;
+    align-content: center;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+.contact{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: #CFFFFF;
+}
+
+.message{
+    display: flex;
+    flex-direction: column;
+    vertical-align: middle;
+    justify-content: center;
+    padding-right: 5vw;
+
+}
+
