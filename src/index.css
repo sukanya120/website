@@ -20,3 +20,13 @@ code {
   color: white !important;
 
 }
+
+.w-18 {
+  width: 18rem !important;
+
+}
+
+.f-wrap {
+  flex-wrap: wrap !important;
+  
+}

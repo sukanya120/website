@@ -7,11 +7,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Blog from './components/blog/Blog';
 import { useEffect, useState } from 'react';
 import {Navbar, Container, Nav, Button} from 'react-bootstrap';
+import RockyMountain from './components/rockyMountain/RockyMountain';
 
 function App() {
 
   //all logic goes before return cause return only includes html
-  const [page, setPage] = useState();
+  const [page, setPage] = useState(<Home/>);
  
  
   const setPageRequest = (pageRequest)=> {
@@ -22,7 +23,7 @@ function App() {
         break;
       case "resume": setPage(<Resume/>);
         break;
-      case "blog": setPage(<Blog/>);
+      case "blog": setPage(<RockyMountain/>);
         break;
   
   
