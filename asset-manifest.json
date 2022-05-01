@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sukanyapaul.com/static/css/main.50285daf.chunk.css",
+    "main.js": "/sukanyapaul.com/static/js/main.d55f2ce1.chunk.js",
+    "main.js.map": "/sukanyapaul.com/static/js/main.d55f2ce1.chunk.js.map",
+    "runtime-main.js": "/sukanyapaul.com/static/js/runtime-main.8280c8d9.js",
+    "runtime-main.js.map": "/sukanyapaul.com/static/js/runtime-main.8280c8d9.js.map",
+    "static/css/2.f2512455.chunk.css": "/sukanyapaul.com/static/css/2.f2512455.chunk.css",
+    "static/js/2.2ee6f893.chunk.js": "/sukanyapaul.com/static/js/2.2ee6f893.chunk.js",
+    "static/js/2.2ee6f893.chunk.js.map": "/sukanyapaul.com/static/js/2.2ee6f893.chunk.js.map",
+    "static/js/3.87a45d92.chunk.js": "/sukanyapaul.com/static/js/3.87a45d92.chunk.js",
+    "static/js/3.87a45d92.chunk.js.map": "/sukanyapaul.com/static/js/3.87a45d92.chunk.js.map",
+    "index.html": "/sukanyapaul.com/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/sukanyapaul.com/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.50285daf.chunk.css.map": "/sukanyapaul.com/static/css/main.50285daf.chunk.css.map",
+    "static/js/2.2ee6f893.chunk.js.LICENSE.txt": "/sukanyapaul.com/static/js/2.2ee6f893.chunk.js.LICENSE.txt",
+    "static/media/Pic_1.83a23f7a.jpg": "/sukanyapaul.com/static/media/Pic_1.83a23f7a.jpg",
+    "static/media/home.css": "/sukanyapaul.com/static/media/bg_mountain.109625a0.jpg",
+    "static/media/logo.6ce24c58.svg": "/sukanyapaul.com/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8280c8d9.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.2ee6f893.chunk.js",
+    "static/css/main.50285daf.chunk.css",
+    "static/js/main.d55f2ce1.chunk.js"
+  ]
+}
