@@ -143,14 +143,16 @@ other backend technologies.
                                 <li>FileZila/WinSCP</li>
 							</ul>
 						</div>
+						<div className="row f600 f1-3em mb-3">
+							Personal Projects
+						</div>
 					</div>
 				
 					<div className="mt-5 mt-sm-4 pl-3 pl-lg-0 pt-3">
 						<div className="row f600 f1-3em mb-3">
 							Personal Projects
 						</div>
-						<div className="row flex-col-spa-l">
-							<div className="mb-2">
+						<div className="mb-2">
 								<span>Personal Website</span>
 								<a href="https://samratdutta.com" className="lightgrey">samratdutta.com</a>
 							</div>
@@ -160,6 +162,8 @@ other backend technologies.
 								<span className="f0-8em">[expressJS (Node)/React]</span><br/>
 								<a href="https://memories.sukanyapaul.com" className="lightgrey">demo.schoolspace.co.in</a>
 							</div>
+						<div className="row flex-col-spa-l">
+							
 							
 						</div>
 					</div>
