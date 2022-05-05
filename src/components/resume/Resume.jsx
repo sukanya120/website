@@ -47,47 +47,45 @@ other backend technologies.
 						<div className="mb-3">
 							<div className="inline">
 								<span>
-									<strong>acardo group AG | September 2020 - Present</strong>
+									<strong>Cybage Software Pvt.Ltd | May 2021 - present (7 Months)</strong>
 								</span>
 							</div>
                             <br></br>
-							<span className="f300 fi">Web Developer (Werkstudent)</span><br/>
+							<span className="f300 fi">Senior Software Engineer</span><br/>
 							<ul className="pl-3">
-								<li>Full stack web development using PHP, Java and MySql.</li>
+								<li>Working in Core application development for Amadeus, TravelClick.</li>
+								<li>Collaborating with stakeholders for scope and requirement of the project.</li>
+								<li>Worked extensively with Java, Spring, Hibernate, SQL, Docker, REST</li>
 							</ul>
 						</div>
 						<div className="mb-3">
 							<div className="inline">
 								<span>
-									<strong>Arvato Systems, Bertelsmann | June 2019 - May 2020</strong>
+									<strong>Cerillion Technologies Pvt. Ltd. | Feb 2019 -May 2021 (2.3 years)</strong>
 								</span>
-								<span className="f600 lightgrey ml-2 f0-8em valignmiddle">
-									1 yr
-								</span>
+								
 							</div>
                             <br></br>
-							<span className="f300 fi">Software Developer (Werkstudent)</span><br/>
+							<span className="f300 fi">Analyst Programmer</span><br/>
 							<ul className="pl-3">
-								<li>Worked on 3 C# Asp.NET Core MVC projects (Full Stack).</li>
-								<li>Developed as part of a team in the Arvato Smart Logistics Platform (ASLP/Platbricks).</li>
-								<li>Developed a React project with Asp.NET Core RestAPI backend.</li>
+								<li>Was part of the development for the Product Catalogues software (CEPC).</li>
+								<li>Worked with customers to customise the product based on needs.</li>
+								<li>Worked with Java, Hibernate, HTML/CSS, JavaScript, GWT.</li>
 							</ul>
 						</div>
 
 						<div>
 							<div className="inline">
 								<span>
-									<strong>Piping Rock India Pvt. Ltd. | July 2016 - September 2018</strong>
+									<strong>TechMahindra Pvt. Ltd. | Sep 2016 -Jan 2019 (2.2 years)</strong>
 								</span>
-								<span className="f600 lightgrey ml-2 f0-8em valignmiddle">
-									2 yrs 3 mos
-								</span>
+								
 							</div><br></br>
-							<span className="f300 fi">Software Developer (Full time)</span><br/>
+							<span className="f300 fi">Software Engineer</span><br/>
 							<ul className="pl-3">
-								<li>One of first 4 employees.</li>
-								<li>Developed an entire WMS/ERP system from scratch in C# Asp.NET MVC</li>
-								<li>Oversaw deployment of the software in warehouses in USA.</li>
+								<li>Was part of the development for the Sunrise CRM.</li>
+								<li>Collaborating with stakeholders for scope and requirement of the project.</li>
+								<li>Worked with Java, Spring, JDBC, PL/SQL.</li>
 							</ul>
 						</div>
 					</div>
@@ -95,10 +93,6 @@ other backend technologies.
 						<div className="row f600 f1-3em pl-3 mb-2">
 							Education
 						</div>
-						<span><strong>Universität Paderborn</strong></span><br/>
-						<span>Master Computer Science | WS 2018 - Present</span><br/>
-						<span>Focus : Intelligence and Data</span><br/><br/>
-
 						<span><strong>West Bengal University Of Technology, India</strong></span><br/>
 						<span>Bachelor Of Technology - Information Technology</span><br/>
 						<span>August 2012 - July 2016 | GPA : 2.2</span>
@@ -154,13 +148,13 @@ other backend technologies.
 						</div>
 						<div className="mb-2">
 								<span>Personal Website</span>
-								<a href="https://samratdutta.com" className="lightgrey">samratdutta.com</a>
+								<a href="https://sukanyapaul.com" className="lightgrey">sukanyapaul.com</a>
 							</div>
 							<div className="mb-2">
 								<span>Memories(Personal Timeline)</span>
                                 <br></br>
 								<span className="f0-8em">[expressJS (Node)/React]</span><br/>
-								<a href="https://memories.sukanyapaul.com" className="lightgrey">demo.schoolspace.co.in</a>
+								<a href="https://memories.sukanyapaul.com" className="lightgrey">memories.sukanyapaul.com</a>
 							</div>
 						<div className="row flex-col-spa-l">
 							
