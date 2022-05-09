@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-
+import './message.css';
 
 export default function Message(){
     const email= useRef();
@@ -13,7 +13,7 @@ export default function Message(){
     
     return(
         <>  
-            <h2>Drop a message</h2>
+            <h2 className='darkslategrey'>Drop a message</h2>
             
             <input type="text" name="" id="" className="my-3" placeholder="Your e-mail Id" ref={email}/>
             <textarea name="" id="" cols="30" rows="10" className="my-3" placeholder="Message for me" ref={message}></textarea>
