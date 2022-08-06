@@ -6,9 +6,11 @@ export default function Resume(){
 
 return (
 <div className='container'>
-	<a href="resume.pdf" className="lightgrey float-right mx-10 mt-2 pr-4 transparent0-5 f0-8em" download>PDF <i
-			className="fa fa-download" aria-hidden="true"></i>
-	</a>
+	<div className="row">
+		<a href="resume.pdf" className="lightgrey float-right mx-10 mt-2 pr-4 transparent0-5 f0-8em" download>PDF <i
+				className="fa fa-download" aria-hidden="true"></i>
+		</a>
+	</div>
 	<div className="bg-white py-3 py-md-5 mx-10 my-3">
 		<div className="container px-10 py-3 py-md-5">
 			<div className="row" id="toprow">
@@ -38,8 +40,7 @@ return (
 				</div>
 			</div>
 			<div className="row mt-3 mt-sm-4 mt-lg-5 px-3">
-				I am a software developer with 5 years of experience in Java(Spring/ Quarkus), SQL, Kafka and
-				other backend technologies.
+				I am a software developer with 5 years of experience in Java(Spring/ Quarkus), SQL, Kafka, React, AWS(S3) and other cutting edge technologies.
 			</div>
 		</div>
 		<hr />
@@ -118,11 +119,13 @@ return (
 								<li>Hibernate</li>
 								<li>PL/SQL</li>
 								<li>Mongo DB</li>
+								<li>React</li>
 								<li>JavaScript/ JQuery</li>
 								<li>HTML/CSS</li>
 								<li>REST API</li>
 								<li>Docker</li>
 								<li>CI/CD</li>
+								<li>AWS(S3, EC2)</li>
 							</ul>
 						</div>
 						<div className="row flex-col-spa-l">
@@ -143,9 +146,7 @@ return (
 								<li>FileZila/WinSCP</li>
 							</ul>
 						</div>
-
-					</div>
-					<div className="mt-5 mt-sm-4 pl-3 pl-lg-0 pt-3">
+						<div className="mt-5 mt-sm-4 pl-3 pl-lg-0 pt-3">
 						<div className="row f600 f1-3em">
 							Personal Projects
 						</div>
@@ -162,9 +163,19 @@ return (
 								<a href="https://memories.sukanyapaul.com"
 									className="lightgrey">memories.sukanyapaul.com</a>
 							</div>
+							<div className="mb-2">
+								<span>schoolspace</span>
+								<br></br>
+								<span className="f0-8em">[expressJS (Node)/React]</span><br />
+								<a href="https://memories.sukanyapaul.com"
+									className="lightgrey">memories.sukanyapaul.com</a>
+							</div>
 
 						</div>
 					</div>
+
+					</div>
+					
 
 				</div>
 			</div>
