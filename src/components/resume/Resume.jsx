@@ -104,49 +104,8 @@ return (
 						<span>Bachelor Of Technology - Information Technology</span><br />
 						<span>August 2012 - July 2016 | GPA : 2.2</span>
 					</div>
-				</div>
-
-				<div className="col-lg-3  order-lg-first" id="leftdiv">
-					<div className="pl-3 pl-lg-0 mb-5">
-						<div className="row f600 f1-3em">
-							TECHNLOGIES
-						</div>
-						<div className="row flex-col-spa-l">
-							<ul className="pl-3">
-								<li>Spring Framework</li>
-								<li>Quarkus Framework</li>
-								<li>Kafka</li>
-								<li>Hibernate</li>
-								<li>PL/SQL</li>
-								<li>Mongo DB</li>
-								<li>React</li>
-								<li>JavaScript/ JQuery</li>
-								<li>HTML/CSS</li>
-								<li>REST API</li>
-								<li>Docker</li>
-								<li>CI/CD</li>
-								<li>AWS(S3, EC2)</li>
-							</ul>
-						</div>
-						<div className="row flex-col-spa-l">
-
-							<div className="row f600 f1-3em">
-								TOOLS
-							</div>
-							<ul className="pl-3">
-								<li>CRM(Amdocs)</li>
-								<li>Jira</li>
-								<li>Confluence</li>
-								<li>GIT</li>
-								<li>Bitbucket</li>
-								<li>SourceTree</li>
-								<li>Bamboo</li>
-								<li>Jenkins</li>
-								<li>Postman</li>
-								<li>FileZila/WinSCP</li>
-							</ul>
-						</div>
-						<div className="mt-5 mt-sm-4 pl-3 pl-lg-0 pt-3">
+					<br />
+					<div>       {/* <div>  className="mt-5 mt-sm-4 pl-3 pl-lg-0 pt-3" */}
 						<div className="row f600 f1-3em">
 							Personal Projects
 						</div>
@@ -167,12 +126,64 @@ return (
 								<span>schoolspace</span>
 								<br></br>
 								<span className="f0-8em">[expressJS (Node)/React]</span><br />
-								<a href="https://memories.sukanyapaul.com"
+								<a href="https://demo.schoolspace.co.in"
 									className="lightgrey">memories.sukanyapaul.com</a>
 							</div>
 
 						</div>
 					</div>
+				</div>
+
+				<div className="col-lg-3  order-lg-first" id="leftdiv">
+					<div className="pl-3 pl-lg-0 mb-5">
+						<div className="row f600 f1-3em">
+							TECHNLOGIES
+						</div>
+						<div className="row flex-col-spa-l">
+							<ul className="pl-3">
+								<br></br>
+								<h5>Backend</h5>
+								<li>Spring Framework</li>
+								<li>Quarkus Framework</li>
+								<li>Kafka</li>
+								<li>Hibernate</li>
+								<li>REST API</li>
+								<li>Docker</li>
+								<li>CI/CD</li>
+								<li>Oracle DB</li>
+								<li>MySQL</li>
+								<li>Mongo DB</li>
+								<br></br>
+								<h5>Frontend</h5>
+								<li>React</li>
+								<li>JavaScript/ JQuery</li>
+								<li>HTML/CSS</li>
+								<br></br>
+								<h5>Cloud</h5>
+								<li>AWS(S3, EC2)</li>
+							</ul>
+						</div>
+						<br />
+						<div className="row flex-col-spa-l">
+
+							<div className="row f600 f1-3em">
+								TOOLS
+							</div>
+							<ul className="pl-3">
+								<li>CRM(Amdocs)</li>
+								<li>Jira</li>
+								<li>Confluence</li>
+								<li>GIT</li>
+								<li>Bitbucket</li>
+								<li>SourceTree</li>
+								<li>Bamboo</li>
+								<li>Jenkins</li>
+								<li>Postman</li>
+								<li>FileZila/WinSCP</li>
+							</ul>
+						</div>
+						<br />
+						
 
 					</div>
 					
